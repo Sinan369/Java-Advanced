@@ -1,7 +1,5 @@
 package market;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class Wine extends Product{
     private static final double ALCOHOL_TAX_PERCENTAGE = TAX_PERCENTAGE + 10;
 
